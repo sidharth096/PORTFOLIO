@@ -39,7 +39,7 @@ const Projects = () => {
            <a className='  rounded-full shadow-md shadow-slate-400 p-1 cursor-pointer' href="https://github.com/sidharth096/CREATIVE-COMPANY.git"><FontAwesomeIcon icon={faGithub} style={{ color: "#38d7ff" }}/></a>
           </div>
         </div>
-  
+   
         {/* Project 3 */}
         <div className=" rounded-lg shadow-md shadow-sky-400 p-2 opacity-80 hover:opacity-100 flex flex-col justify-between">
             <div>
